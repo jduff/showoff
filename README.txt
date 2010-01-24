@@ -114,6 +114,15 @@ You can manage the presentation with the following keys:
  * f: toggle footer
  * z: toggle help (this)
 
+You can manage the presentation with the following keys:
+
+ * space, cursor right: next slide
+ * cursor left: previous slide
+ * d: debug mode
+ * c: table of contents (vi)
+ * f: toggle footer
+ * z: toggle help (this)
+
 Real World Usage
 ====================
 
